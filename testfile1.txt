@@ -3,3 +3,4 @@ Git revert commit1
 this is test file 1
 
 Testing the merge functionality
+checking stash on file1

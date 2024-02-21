@@ -1,1 +1,2 @@
 This is testfile 2
+checking stash on file2
